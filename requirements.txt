@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+plottly
+scikit-learn
+tensorflow
+pillow
+xgboost
+loghtgbm
+ultralytics
+opencv

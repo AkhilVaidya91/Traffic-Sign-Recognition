@@ -1,6 +1,11 @@
 # Traffic Sign Recognition System with Hybrid CNN and Random Forest Models for Autonomous Driving Applications
 
 [![IEEE Publication](https://img.shields.io/badge/IEEE-Published-blue)](https://ieeexplore.ieee.org/document/10795884)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/AkhilVaidya91/Signumum-Revelio/graphs/commit-activity)
+[![GitHub stars](https://img.shields.io/github/stars/AkhilVaidya91/Signumum-Revelio.svg?style=social&label=Star&maxAge=2592000)](https://github.com/AkhilVaidya91/Signumum-Revelio/stargazers/)
 
 This repository contains the official implementation for our paper ["Traffic Sign Recognition System with Hybrid CNN and Random Forest Models for Autonomous Driving Applications"](https://ieeexplore.ieee.org/document/10795884) published at the 2024 First International Conference on Software, Systems and Information Technology (SSITCON).
 

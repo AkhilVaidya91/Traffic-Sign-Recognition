@@ -8,7 +8,7 @@ This repository contains the official implementation for our paper ["Traffic Sig
 This research presents a novel hybrid approach for traffic sign recognition by combining Convolutional Neural Networks (CNN) and Random Forest models. Our system achieves state-of-the-art performance for autonomous driving applications with a two-stage pipeline: detection using YOLOv8 followed by classification using VGG16 embeddings with Random Forest.
 
 ## Architecture
-![Traffic Sign Detection and Classification Pipeline](path/to/architecture_image.png)
+![Traffic Sign Detection and Classification Pipeline](flowchart.png)
 
 Our system employs a multi-pathway architecture:
 1. YOLOv8 for initial traffic sign detection

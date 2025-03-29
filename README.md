@@ -4,11 +4,6 @@
 
 This repository contains the official implementation for our paper ["Traffic Sign Recognition System with Hybrid CNN and Random Forest Models for Autonomous Driving Applications"](https://ieeexplore.ieee.org/document/10795884) published at the 2024 First International Conference on Software, Systems and Information Technology (SSITCON).
 
-## Authors
-- Akhil Vaidya - *Department of Computer Engineering, Sardar Patel Institute of Technology, Mumbai, India*
-- Darsh Tulsiyan - *Department of Computer Engineering, Sardar Patel Institute of Technology, Mumbai, India*
-- Omkar Surve - *Department of Computer Engineering, Sardar Patel Institute of Technology, Mumbai, India*
-
 ## Abstract
 This research presents a novel hybrid approach for traffic sign recognition by combining Convolutional Neural Networks (CNN) and Random Forest models. Our system achieves state-of-the-art performance for autonomous driving applications with a two-stage pipeline: detection using YOLOv8 followed by classification using VGG16 embeddings with Random Forest.
 
